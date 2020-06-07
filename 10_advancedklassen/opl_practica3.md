@@ -6,8 +6,8 @@ class Meetlat
 {
     public Meetlat(int lengtestart)
     {
-
-    }lengteInM=lengtestart;
+        lengteInM=lengtestart;
+    }
 
     private double lengte;
     public double BeginLengte
